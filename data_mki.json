@@ -1,0 +1,37 @@
+{
+    "MKI-001": {
+        "judul": "Manajemen Strategis",
+        "isi data": "Proses perumusan, implementasi, dan evaluasi keputusan lintas fungsional yang memungkinkan organisasi mencapai tujuannya.",
+        "dosen": "Melvin Rahma Sayuga Subroto, S.Pd., M.Acc.",
+        "mahasiswa": 48,
+        "status": "Aktif"
+    },
+    "MKI-003": {
+        "judul": "",
+        "isi data": "",
+        "dosen": "",
+        "mahasiswa": "",
+        "status": ""
+    },
+    "MK": {
+        "judul": "",
+        "isi data": "",
+        "dosen": "",
+        "mahasiswa": "",
+        "status": ""
+    },
+    "MKIIIII": {
+        "judul": "",
+        "isi data": "",
+        "dosen": "",
+        "mahasiswa": "",
+        "status": ""
+    },
+    "MKI-009": {
+        "judul": "",
+        "isi data": "",
+        "dosen": "",
+        "mahasiswa": "",
+        "status": ""
+    }
+}
